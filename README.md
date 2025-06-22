@@ -1,9 +1,7 @@
-# 📁 Estrutura do Projeto SQL
-
 ## 🗂 Organização do Repositório
 
-projeto-sql/
-│
+```
+SQL_Estudos/
 ├── database/
 │ └── olist.db # Banco de dados SQLite
 │
