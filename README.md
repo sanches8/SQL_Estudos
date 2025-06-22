@@ -6,4 +6,4 @@ SQL_Estudos/
 │ └── olist.db # Banco de dados SQLite
 │
 └── queries/
-└── queries-basicas.sql # Arquivo de consultas
+│ └── queries-basicas.sql # Arquivo de consultas
